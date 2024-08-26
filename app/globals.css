@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection{
+color: cadetblue;
+}
+
+*{
+    font-family: monospace;
+
+}
+
